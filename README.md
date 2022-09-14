@@ -8,11 +8,11 @@ prediction (on currently simulated data from GEOS-Chem) to missing data patterns
 
 
 Results obtained:
-Missing data % under various regriddings as well as raw
-Time series for AOD under different samplings as location
-Visualization of missing data %
-AutoML performance on untouched data
-AutoML performance on all regriddings
-AutoML performance for select regriddings and droppped features
+* Missing data % under various regriddings as well as raw
+* Time series for AOD under different samplings as location
+* Visualization of missing data %
+* AutoML performance on untouched data
+* AutoML performance on all regriddings
+* AutoML performance for select regriddings and droppped features
 
 First, run 
