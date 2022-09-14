@@ -5,3 +5,14 @@ summarizing work and exploration done to investigate the robustness of machine l
 prediction (on currently simulated data from GEOS-Chem) to missing data patterns found in real life.
 
 ## Instructions
+
+
+Results obtained:
+Missing data % under various regriddings as well as raw
+Time series for AOD under different samplings as location
+Visualization of missing data %
+AutoML performance on untouched data
+AutoML performance on all regriddings
+AutoML performance for select regriddings and droppped features
+
+First, run 
