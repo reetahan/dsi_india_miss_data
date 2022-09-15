@@ -15,7 +15,7 @@
 #PBS -M rm3873@columbia.edu
 
 echo "ALL, NO GAS"
-python co_train_all_gridcell.py "daily" "["aod","emission","met"]"
+python automl_main.py "daily" "["aod","emission","met"]"
 
 
 # End of script
